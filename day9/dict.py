@@ -197,25 +197,6 @@ KeyboardInterrupt
 {}
 >>> 'manoj'
 'manoj'
-
-
-
-
-
->>> 
-
->>> 
-
-
->>> 
-
->>> 
-
-
->>> 
-
->>> 
-
 >>> d={'komalatha': 50, 'bhagravi': 90, 'manoj': 99, 'ashrutha': 56, 'dinesh': 78}
 >>> d
 {'komalatha': 50, 'bhagravi': 90, 'manoj': 99, 'ashrutha': 56, 'dinesh': 78}
