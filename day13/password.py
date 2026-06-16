@@ -14,7 +14,7 @@ if len(password)>8:
     if len(s)==4:
         print("Strong password")
     else:
-        print("weakAshru password")
+        print("weak password")
         
 else:
     print("Weak Strong")
